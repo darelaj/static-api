@@ -1,0 +1,12 @@
+[
+  {"nama": "Baldur's Gate 3", "releaseYear": "2023", "imageId" : "bg3"},
+  {"nama": "God of War Ragnarok", "releaseYear": "2022", "imageId" : "god-of-war-ragnarok"},
+  {"nama": "Monster Hunter: World", "releaseYear": "2018", "imageId" : "mhw"},
+  {"nama": "Need For Speed Heat", "releaseYear": "2019", "imageId" : "nfs-heat"},
+  {"nama": "Persona 5 Royal", "releaseYear": "2019", "imageId" : "p5r"},
+  {"nama": "Red Dead Redemption 2", "releaseYear": "2018", "imageId" : "rdr2"},
+  {"nama": "The Elder Scrolls V: Skyrim", "releaseYear": "2011", "imageId" : "skyrim"},
+  {"nama": "The Witcher 3: Wild Hunt", "releaseYear": "2015", "imageId" : "witcher-3"},
+  {"nama": "Yakuza 0", "releaseYear": "2018", "imageId" : "yakuza-0"},
+  {"nama": "Mount & Blade II: Bannerlord", "releaseYear": "2022", "imageId" : "bannerlord"}
+]
